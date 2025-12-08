@@ -1,0 +1,30 @@
+{
+  "name": "Voltaic - E-Mon #005",
+  "description": "A storm cloud golem holding a lightning spear. The legendary, final evolution of the VOLT element.",
+  "image": "https://triedcatched.github.io/nft/e-mon/webp/Voltaic.webp",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "VOLT"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "HP",
+      "value": 80,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Attack",
+      "value": 90,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Speed",
+      "value": 95,
+      "display_type": "number"
+    }
+  ]
+}

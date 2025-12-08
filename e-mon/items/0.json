@@ -1,0 +1,30 @@
+{
+  "name": "Zapkit - E-Mon #001",
+  "description": "A bright yellow fennec fox with lightning bolt ears.",
+  "image": "https://triedcatched.github.io/nft/e-mon/webp/Zapkit.webp",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "VOLT"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "HP",
+      "value": 40,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Attack",
+      "value": 50,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Speed",
+      "value": 90,
+      "display_type": "number"
+    }
+  ]
+}

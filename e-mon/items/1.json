@@ -1,0 +1,30 @@
+{
+  "name": "Statico - E-Mon #002",
+  "description": "A floating ball of blue static wool with nervous eyes.",
+  "image": "https://triedcatched.github.io/nft/e-mon/webp/Statico.webp",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "VOLT"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "HP",
+      "value": 50,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Attack",
+      "value": 40,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Speed",
+      "value": 80,
+      "display_type": "number"
+    }
+  ]
+}

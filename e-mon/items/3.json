@@ -1,0 +1,30 @@
+{
+  "name": "Surge - E-Mon #004",
+  "description": "A sleek, jaguar-like beast with a battery on its back.",
+  "image": "https://triedcatched.github.io/nft/e-mon/webp/Surge.webp",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "VOLT"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "HP",
+      "value": 60,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Attack",
+      "value": 80,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Speed",
+      "value": 110,
+      "display_type": "number"
+    }
+  ]
+}

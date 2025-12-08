@@ -1,0 +1,30 @@
+{
+  "name": "Ampwing - E-Mon #003",
+  "description": "A hummingbird made of glowing neon tubes. A futuristic sleek design for an uncommon VOLT element aerialist.",
+  "image": "https://triedcatched.github.io/nft/e-mon/webp/Ampwing.webp",
+  "attributes": [
+    {
+      "trait_type": "Kind",
+      "value": "VOLT"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "HP",
+      "value": 30,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Attack",
+      "value": 60,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Speed",
+      "value": 100,
+      "display_type": "number"
+    }
+  ]
+}
